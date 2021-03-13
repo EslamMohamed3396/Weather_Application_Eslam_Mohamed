@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Application Eslam Mohamed</string>
+    <string name="permission">GPS Permissions</string>
+    <string name="gps_required">GPS is required for this app to work. Please enable GPS.</string>
+    <string name="yes">Yes</string>
+
+    <string name="key">6722dee8383748f476fc1366b414ab89</string>
+    <string name="city">city</string>
+</resources>
